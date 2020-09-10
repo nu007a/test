@@ -1,11 +1,11 @@
-<mxfile modified="2020-09-10T04:27:11.061Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="DfBXspVcav7fvAfy9M15" version="13.6.4" type="github">
+<mxfile modified="2020-09-10T04:54:37.558Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="K9kCxJBDwc9eIGiykyDz" version="13.6.4" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="2037" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="450" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nO0-OS2RSEQuxfdM2Wia-722" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;shadow=0;dashed=1;strokeColor=#6c8ebf;fontSize=12;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#dae8fc;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1390" width="200" height="100" as="geometry" />
+          <mxGeometry x="190" y="1310" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="14" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="100" width="420" height="430" as="geometry" />
@@ -238,6 +238,18 @@
         </mxCell>
         <mxCell id="nO0-OS2RSEQuxfdM2Wia-723" value="编程语言" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1400" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nO0-OS2RSEQuxfdM2Wia-724" value="基础库" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1360" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nO0-OS2RSEQuxfdM2Wia-725" value="生态库" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1320" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nO0-OS2RSEQuxfdM2Wia-726" value="生态框架" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1270" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nO0-OS2RSEQuxfdM2Wia-727" value="领域应用" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1230" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
